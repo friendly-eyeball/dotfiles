@@ -13,11 +13,7 @@ What i use, and why:
 
     I want to be able to lock my PC :p
 
-* vim
-* vim-fugitive
-* vim-ale
-* vim-airline
-* vim-nerdtree
+* vim (+ vim-fugitive, vim-ale, vim-airline, vim-nerdtree)
 
     It works for me both as a simple text editor and as an IDE (and all the cuul guys use it).
 
