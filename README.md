@@ -11,8 +11,7 @@ What i use, and why:
 
 * i3lock (+ scrot, + ImageMagick)
 
-I want to be able to lock my PC :p
-    Scrot + ImageMagick is to make it pretteh
+    I want to be able to lock my PC :p
 
 * vim
 * vim-fugitive
