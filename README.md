@@ -9,7 +9,7 @@ What i use, and why:
 
     I like dynamic WM's that heavily rely on tiling. Also, tabs-based workflow works great for me, aspecially on separate monitors.
 
-* i3lock (+ scrot, + ImageMagick, + autolock)
+* i3lock (+ scrot, + ImageMagick, + xautolock)
 
     I want to be able to lock my PC :p
 
