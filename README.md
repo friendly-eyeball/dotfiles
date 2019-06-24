@@ -13,9 +13,11 @@ What i use, and why:
 
     I want to be able to lock my PC :p
 
+
 * vim (+ vim-fugitive, vim-ale, vim-airline, vim-nerdtree)
 
     It works for me both as a simple text editor and as an IDE (and all the cuul guys use it).
+
 
 --- Cosmetics ---
 
@@ -23,17 +25,21 @@ What i use, and why:
 
     Pretty windows
 
+
 * redshift
 
     Easy on eyes
+
 
 * qt5ct
 
     Choosing themes of Qt apps
 
+
 * lxappearance
 
     Choosing themes of GTK apps
+
 
 --- Anything else ---
 
