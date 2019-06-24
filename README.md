@@ -7,9 +7,7 @@ What i use, and why:
 
 * awesomewm
 
-    I like dynamic WM's that heavily rely on tiling
-
-    Tabs-based workflow works great for me, aspecially on separate monitors
+    I like dynamic WM's that heavily rely on tiling. Also, tabs-based workflow works great for me, aspecially on separate monitors
 
 * i3lock (+ scrot, + ImageMagick)
 
@@ -22,9 +20,7 @@ I want to be able to lock my PC :p
 * vim-airline
 * vim-nerdtree
 
-    It works for me both as a simple text editor and as an IDE.
-
-    And all the cuul guys use it.
+    It works for me both as a simple text editor and as an IDE (and all the cuul guys use it).
 
 --- Cosmetics ---
 
