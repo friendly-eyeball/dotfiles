@@ -7,7 +7,7 @@ What i use, and why:
 
 * awesomewm
 
-    I like dynamic WM's that heavily rely on tiling. Also, tabs-based workflow works great for me, aspecially on separate monitors
+    I like dynamic WM's that heavily rely on tiling. Also, tabs-based workflow works great for me, aspecially on separate monitors.
 
 * i3lock (+ scrot, + ImageMagick)
 
