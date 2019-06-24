@@ -23,7 +23,6 @@ What i use, and why:
 + vim-nerdtree
     It works for me both as a simple text editor and as an IDE.
     All the cuul guys use it.
---- Workflow ---
 
 --- Cosmetics ---
 * compton
@@ -37,8 +36,6 @@ What i use, and why:
 
 * lxappearance
     Choosing themes of GTK apps
---- Cosmetics ---
 
 --- Anything else ---
 It's ever changing. I like thunar though.
---- Anything else ---
