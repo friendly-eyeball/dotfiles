@@ -19,6 +19,11 @@ What i use, and why:
     It works for me both as a simple text editor and as an IDE (and all the cuul guys use it).
 
 
+* fish (only as an interactive shell)
+
+    It's a cool shell, what can i say
+
+
 --- Cosmetics ---
 
 * compton
